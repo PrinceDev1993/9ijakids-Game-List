@@ -64,6 +64,10 @@
   .appBar {
     height: 160px;
   }
+
+  #sel {
+    margin-top: 20px;
+  }
 }
 
 @media screen and (max-width: 350px) {
