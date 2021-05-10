@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/9ijakids-Game-List/static/css/main.347db7a4.chunk.css",
+    "main.css": "/9ijakids-Game-List/static/css/main.94b88370.chunk.css",
     "main.js": "/9ijakids-Game-List/static/js/main.b9d3d762.chunk.js",
     "main.js.map": "/9ijakids-Game-List/static/js/main.b9d3d762.chunk.js.map",
     "runtime-main.js": "/9ijakids-Game-List/static/js/runtime-main.355db943.js",
@@ -8,13 +8,13 @@
     "static/js/2.b3721073.chunk.js": "/9ijakids-Game-List/static/js/2.b3721073.chunk.js",
     "static/js/2.b3721073.chunk.js.map": "/9ijakids-Game-List/static/js/2.b3721073.chunk.js.map",
     "index.html": "/9ijakids-Game-List/index.html",
-    "static/css/main.347db7a4.chunk.css.map": "/9ijakids-Game-List/static/css/main.347db7a4.chunk.css.map",
+    "static/css/main.94b88370.chunk.css.map": "/9ijakids-Game-List/static/css/main.94b88370.chunk.css.map",
     "static/js/2.b3721073.chunk.js.LICENSE.txt": "/9ijakids-Game-List/static/js/2.b3721073.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.355db943.js",
     "static/js/2.b3721073.chunk.js",
-    "static/css/main.347db7a4.chunk.css",
+    "static/css/main.94b88370.chunk.css",
     "static/js/main.b9d3d762.chunk.js"
   ]
 }
