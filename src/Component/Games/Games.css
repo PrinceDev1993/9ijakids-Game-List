@@ -1,0 +1,27 @@
+.bigCont {
+    padding: 7% 3%;
+    background-color: rgb(240, 240, 240);
+}
+
+.flex {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 5px;
+    gap: 20px;
+}
+
+/* RESPONSIVENESS */
+@media screen and (max-width : 420px) {
+    .bigCont {
+        padding: 20% 3%;
+    }
+}
+
+@media screen and (max-width : 300px) {
+    .bigCont {
+        padding: 40% 3%;
+    }
+}
+

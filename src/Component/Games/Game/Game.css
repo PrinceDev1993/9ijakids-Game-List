@@ -1,0 +1,48 @@
+.gameTitle {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.gameDesc {
+    font-size: 18px;
+    max-width: 250px;
+}
+
+.gameImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.gameImage:hover {
+    transform: scale(1.1, 1.1);
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.gameDiv {
+    border-radius: 5px;
+    border: 1px solid rgb(216, 213, 213);
+    padding: 5px;
+}
+
+/* RESPONSIVENESS */
+@media screen and (max-width: 300px) {
+    .gameTitle {
+        margin-top: 15px;
+        font-weight: bold;
+        font-size: 18px;
+    }
+    
+    .gameDesc {
+        font-size: 15px;
+        max-width: 250px;
+    }
+    
+    .gameImage {
+        width: 250px;
+        height: 250px;
+        border-radius: 5px;
+    }
+}
